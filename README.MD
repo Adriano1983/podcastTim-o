@@ -5,17 +5,12 @@
 />
 </p>
 
-<p align="center">
-<a href="https://soundcloud.com/user-853821136/podcasttimao?si=573b5f965ce84459b6274aa31caf459f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
-    <img 
-        src="" 
-        alt="">
-</a>
 
-</p>
 
 <p align="center">
     preview do podcast
+
+    - [ChatGPT](https://soundcloud.com/user-853821136/podcasttimao?si=458cf8aaee2b4d5da270a24b8311128c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 </p>
 
 <div align="center">
