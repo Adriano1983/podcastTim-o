@@ -8,10 +8,12 @@
 
 
 <p align="center">
-    preview do podcast
-
-    - [ChatGPT](https://soundcloud.com/user-853821136/podcasttimao?si=458cf8aaee2b4d5da270a24b8311128c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+    preview do podcast 
 </p>
+
+
+- [Soundcloud](https://soundcloud.com/user-853821136/podcasttimao?si=d0f6b8309f094573af396578c89097b5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+
 
 <div align="center">
     <audio src="output/podcastTimão.MP3" controls title="Podcast editado"></audio>
